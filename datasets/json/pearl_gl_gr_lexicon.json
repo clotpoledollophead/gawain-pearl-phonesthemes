@@ -1,0 +1,1182 @@
+{
+  "glace": {
+    "prefix": "gl",
+    "gloss": "to glide, flow (of light/radiance)",
+    "semantic_field": "light/vision",
+    "token_count": 1,
+    "line_numbers": [
+      171
+    ],
+    "occurrences": [
+      {
+        "line": 171,
+        "text": "Suche gladande glory con to me glace"
+      }
+    ]
+  },
+  "gladande": {
+    "prefix": "gl",
+    "gloss": "gladdening, making joyful (pres. part.)",
+    "semantic_field": "sound/joy",
+    "token_count": 1,
+    "line_numbers": [
+      171
+    ],
+    "occurrences": [
+      {
+        "line": 171,
+        "text": "Suche gladande glory con to me glace"
+      }
+    ]
+  },
+  "gladder": {
+    "prefix": "gl",
+    "gloss": "more glad, happier (comparative)",
+    "semantic_field": "sound/joy",
+    "token_count": 1,
+    "line_numbers": [
+      231
+    ],
+    "occurrences": [
+      {
+        "line": 231,
+        "text": "No gladder gome heþen into Grece"
+      }
+    ]
+  },
+  "gladdest": {
+    "prefix": "gl",
+    "gloss": "most glad, gladdest (superlative)",
+    "semantic_field": "sound/joy",
+    "token_count": 1,
+    "line_numbers": [
+      1109
+    ],
+    "occurrences": [
+      {
+        "line": 1109,
+        "text": "Tor to knaw þe gladdest chere."
+      }
+    ]
+  },
+  "glade": {
+    "prefix": "gl",
+    "gloss": "to gladden; glad, joyful",
+    "semantic_field": "sound/joy",
+    "token_count": 2,
+    "line_numbers": [
+      136,
+      1144
+    ],
+    "occurrences": [
+      {
+        "line": 136,
+        "text": "To þe tenþe dole of þo gladneȝ glade;"
+      },
+      {
+        "line": 1144,
+        "text": "So wern his glenteȝ gloryous glade."
+      }
+    ]
+  },
+  "gladeȝ": {
+    "prefix": "gl",
+    "gloss": "gladdens, makes joyful (3rd sg. pres.)",
+    "semantic_field": "sound/joy",
+    "token_count": 1,
+    "line_numbers": [
+      861
+    ],
+    "occurrences": [
+      {
+        "line": 861,
+        "text": "Þe Lombe vus gladeȝ, oure care is kest;"
+      }
+    ]
+  },
+  "gladneȝ": {
+    "prefix": "gl",
+    "gloss": "gladness, joy (pl.)",
+    "semantic_field": "sound/joy",
+    "token_count": 1,
+    "line_numbers": [
+      136
+    ],
+    "occurrences": [
+      {
+        "line": 136,
+        "text": "To þe tenþe dole of þo gladneȝ glade;"
+      }
+    ]
+  },
+  "glas": {
+    "prefix": "gl",
+    "gloss": "glass",
+    "semantic_field": "glass/material",
+    "token_count": 3,
+    "line_numbers": [
+      114,
+      990,
+      1018
+    ],
+    "occurrences": [
+      {
+        "line": 114,
+        "text": "As glente þurȝ glas þat glowed and glyȝt,"
+      },
+      {
+        "line": 990,
+        "text": "As glemande glas burnist broun,"
+      },
+      {
+        "line": 1018,
+        "text": "O jasporye, as glas þat glysnande schon;"
+      }
+    ]
+  },
+  "glasse": {
+    "prefix": "gl",
+    "gloss": "glass (variant spelling)",
+    "semantic_field": "glass/material",
+    "token_count": 2,
+    "line_numbers": [
+      1025,
+      1106
+    ],
+    "occurrences": [
+      {
+        "line": 1025,
+        "text": "Þe streteȝ of golde as glasse al bare,"
+      },
+      {
+        "line": 1106,
+        "text": "On golden gateȝ þat glent as glasse;"
+      }
+    ]
+  },
+  "glauereȝ": {
+    "prefix": "gl",
+    "gloss": "flatters, cajoles (3rd sg. pres.)",
+    "semantic_field": "other",
+    "token_count": 1,
+    "line_numbers": [
+      688
+    ],
+    "occurrences": [
+      {
+        "line": 688,
+        "text": "Ne glauereȝ her nieȝbor wyth no gyle."
+      }
+    ]
+  },
+  "glayre": {
+    "prefix": "gl",
+    "gloss": "egg-white; a clear viscous gleam",
+    "semantic_field": "light/vision",
+    "token_count": 1,
+    "line_numbers": [
+      1026
+    ],
+    "occurrences": [
+      {
+        "line": 1026,
+        "text": "Þe wal of jasper þat glent as glayre;"
+      }
+    ]
+  },
+  "glayue": {
+    "prefix": "gl",
+    "gloss": "glaive, sword or spear",
+    "semantic_field": "other",
+    "token_count": 1,
+    "line_numbers": [
+      654
+    ],
+    "occurrences": [
+      {
+        "line": 654,
+        "text": "Þat folȝed þe glayue so grymly grounde,"
+      }
+    ]
+  },
+  "gle": {
+    "prefix": "gl",
+    "gloss": "glee, music, joyful sound",
+    "semantic_field": "sound/joy",
+    "token_count": 2,
+    "line_numbers": [
+      95,
+      1123
+    ],
+    "occurrences": [
+      {
+        "line": 95,
+        "text": "So gracios gle couþe no mon gete"
+      },
+      {
+        "line": 1123,
+        "text": "Þen glory and gle watȝ nwe abroched;"
+      }
+    ]
+  },
+  "glem": {
+    "prefix": "gl",
+    "gloss": "gleam, flash of light",
+    "semantic_field": "light/vision",
+    "token_count": 2,
+    "line_numbers": [
+      79,
+      1094
+    ],
+    "occurrences": [
+      {
+        "line": 79,
+        "text": "Quen glem of glodeȝ agaynȝ hem glydeȝ,"
+      },
+      {
+        "line": 1094,
+        "text": "Er þenne þe day-glem dryue al doun,"
+      }
+    ]
+  },
+  "glemande": {
+    "prefix": "gl",
+    "gloss": "gleaming, flashing (pres. part.)",
+    "semantic_field": "light/vision",
+    "token_count": 2,
+    "line_numbers": [
+      70,
+      990
+    ],
+    "occurrences": [
+      {
+        "line": 70,
+        "text": "Þe glemande glory þat of hem glent;"
+      },
+      {
+        "line": 990,
+        "text": "As glemande glas burnist broun,"
+      }
+    ]
+  },
+  "glene": {
+    "prefix": "gl",
+    "gloss": "to glean, gather",
+    "semantic_field": "other",
+    "token_count": 1,
+    "line_numbers": [
+      955
+    ],
+    "occurrences": [
+      {
+        "line": 955,
+        "text": "In þat oþer is noȝt bot pes to glene"
+      }
+    ]
+  },
+  "glent": {
+    "prefix": "gl",
+    "gloss": "glinted, flashed (past of glenten)",
+    "semantic_field": "light/vision",
+    "token_count": 3,
+    "line_numbers": [
+      70,
+      1026,
+      1106
+    ],
+    "occurrences": [
+      {
+        "line": 70,
+        "text": "Þe glemande glory þat of hem glent;"
+      },
+      {
+        "line": 1026,
+        "text": "Þe wal of jasper þat glent as glayre;"
+      },
+      {
+        "line": 1106,
+        "text": "On golden gateȝ þat glent as glasse;"
+      }
+    ]
+  },
+  "glente": {
+    "prefix": "gl",
+    "gloss": "to glint, flash; a glint of light",
+    "semantic_field": "light/vision",
+    "token_count": 3,
+    "line_numbers": [
+      114,
+      671,
+      1001
+    ],
+    "occurrences": [
+      {
+        "line": 114,
+        "text": "As glente þurȝ glas þat glowed and glyȝt,"
+      },
+      {
+        "line": 671,
+        "text": "Bot he to gyle þat neuer glente"
+      },
+      {
+        "line": 1001,
+        "text": "He glente grene in þe lowest hemme;"
+      }
+    ]
+  },
+  "glenteȝ": {
+    "prefix": "gl",
+    "gloss": "glints, flashes (pl. noun or 3rd sg. pres.)",
+    "semantic_field": "light/vision",
+    "token_count": 1,
+    "line_numbers": [
+      1144
+    ],
+    "occurrences": [
+      {
+        "line": 1144,
+        "text": "So wern his glenteȝ gloryous glade."
+      }
+    ]
+  },
+  "glet": {
+    "prefix": "gl",
+    "gloss": "slime, filth, impurity",
+    "semantic_field": "other",
+    "token_count": 1,
+    "line_numbers": [
+      1060
+    ],
+    "occurrences": [
+      {
+        "line": 1060,
+        "text": "Wythouten fylþe oþer galle oþer glet."
+      }
+    ]
+  },
+  "glod": {
+    "prefix": "gl",
+    "gloss": "glided, moved smoothly (past of gliden)",
+    "semantic_field": "motion",
+    "token_count": 1,
+    "line_numbers": [
+      1105
+    ],
+    "occurrences": [
+      {
+        "line": 1105,
+        "text": "Wyth gret delyt þay glod in fere"
+      }
+    ]
+  },
+  "glodeȝ": {
+    "prefix": "gl",
+    "gloss": "glades; glowing open spaces (pl.)",
+    "semantic_field": "light/vision",
+    "token_count": 1,
+    "line_numbers": [
+      79
+    ],
+    "occurrences": [
+      {
+        "line": 79,
+        "text": "Quen glem of glodeȝ agaynȝ hem glydeȝ,"
+      }
+    ]
+  },
+  "glory": {
+    "prefix": "gl",
+    "gloss": "glory, splendour, divine radiance",
+    "semantic_field": "light/vision",
+    "token_count": 5,
+    "line_numbers": [
+      70,
+      171,
+      934,
+      959,
+      1123
+    ],
+    "occurrences": [
+      {
+        "line": 70,
+        "text": "Þe glemande glory þat of hem glent;"
+      },
+      {
+        "line": 171,
+        "text": "Suche gladande glory con to me glace"
+      },
+      {
+        "line": 934,
+        "text": "To loke on þe glory of þys gracious gote."
+      },
+      {
+        "line": 959,
+        "text": "Þer glory and blysse schal euer encres"
+      },
+      {
+        "line": 1123,
+        "text": "Þen glory and gle watȝ nwe abroched;"
+      }
+    ]
+  },
+  "gloryous": {
+    "prefix": "gl",
+    "gloss": "glorious, radiantly splendid",
+    "semantic_field": "light/vision",
+    "token_count": 3,
+    "line_numbers": [
+      799,
+      915,
+      1144
+    ],
+    "occurrences": [
+      {
+        "line": 799,
+        "text": "\"Þat gloryous gyltleȝ þat mon con quelle"
+      },
+      {
+        "line": 915,
+        "text": "As þou art gloryous wythouten galle,"
+      },
+      {
+        "line": 1144,
+        "text": "So wern his glenteȝ gloryous glade."
+      }
+    ]
+  },
+  "glowed": {
+    "prefix": "gl",
+    "gloss": "glowed, emitted light (past of glowen)",
+    "semantic_field": "light/vision",
+    "token_count": 1,
+    "line_numbers": [
+      114
+    ],
+    "occurrences": [
+      {
+        "line": 114,
+        "text": "As glente þurȝ glas þat glowed and glyȝt,"
+      }
+    ]
+  },
+  "glydeȝ": {
+    "prefix": "gl",
+    "gloss": "glides, moves smoothly (3rd sg. pres.)",
+    "semantic_field": "motion",
+    "token_count": 1,
+    "line_numbers": [
+      79
+    ],
+    "occurrences": [
+      {
+        "line": 79,
+        "text": "Quen glem of glodeȝ agaynȝ hem glydeȝ,"
+      }
+    ]
+  },
+  "glymme": {
+    "prefix": "gl",
+    "gloss": "gleam, radiance, flash of light",
+    "semantic_field": "light/vision",
+    "token_count": 1,
+    "line_numbers": [
+      1088
+    ],
+    "occurrences": [
+      {
+        "line": 1088,
+        "text": "So watȝ I rauyste wyth glymme pure."
+      }
+    ]
+  },
+  "glysnande": {
+    "prefix": "gl",
+    "gloss": "glistening, sparkling (pres. part.)",
+    "semantic_field": "light/vision",
+    "token_count": 2,
+    "line_numbers": [
+      165,
+      1018
+    ],
+    "occurrences": [
+      {
+        "line": 165,
+        "text": "As glysnande golde þat man con schere,"
+      },
+      {
+        "line": 1018,
+        "text": "O jasporye, as glas þat glysnande schon;"
+      }
+    ]
+  },
+  "glyȝt": {
+    "prefix": "gl",
+    "gloss": "gleamed, glittered (past; cf. glistnen)",
+    "semantic_field": "light/vision",
+    "token_count": 1,
+    "line_numbers": [
+      114
+    ],
+    "occurrences": [
+      {
+        "line": 114,
+        "text": "As glente þurȝ glas þat glowed and glyȝt,"
+      }
+    ]
+  },
+  "grace": {
+    "prefix": "gr",
+    "gloss": "grace, divine favour, mercy",
+    "semantic_field": "grace/virtue",
+    "token_count": 13,
+    "line_numbers": [
+      63,
+      194,
+      425,
+      436,
+      612,
+      623,
+      624,
+      625,
+      636,
+      648,
+      660,
+      661,
+      670
+    ],
+    "occurrences": [
+      {
+        "line": 63,
+        "text": "My goste is gon in Godeȝ grace"
+      },
+      {
+        "line": 194,
+        "text": "Þere moȝt mon by grace haf sene,"
+      },
+      {
+        "line": 425,
+        "text": "We leuen on Marye þat grace of grewe,"
+      },
+      {
+        "line": 436,
+        "text": "Blessed bygynner of vch a grace!'"
+      },
+      {
+        "line": 612,
+        "text": "For þe grace of God is gret inoghe."
+      },
+      {
+        "line": 623,
+        "text": "Mercy and grace moste hem þen stere,"
+      },
+      {
+        "line": 624,
+        "text": "For þe grace of God is gret innoȝe."
+      },
+      {
+        "line": 625,
+        "text": "'Bot innoghe of grace hatȝ innocent."
+      },
+      {
+        "line": 636,
+        "text": "For þe grace of God is gret innoghe."
+      },
+      {
+        "line": 648,
+        "text": "Þe grace of God wex gret innoghe."
+      },
+      {
+        "line": 660,
+        "text": "And þe grace of God is gret innogh."
+      },
+      {
+        "line": 661,
+        "text": "'Grace innogh þe mon may haue"
+      },
+      {
+        "line": 670,
+        "text": "And be þurȝ mercy to grace þryȝt;"
+      }
+    ]
+  },
+  "gracios": {
+    "prefix": "gr",
+    "gloss": "gracious, courteous, pleasing",
+    "semantic_field": "grace/virtue",
+    "token_count": 3,
+    "line_numbers": [
+      95,
+      189,
+      260
+    ],
+    "occurrences": [
+      {
+        "line": 95,
+        "text": "So gracios gle couþe no mon gete"
+      },
+      {
+        "line": 189,
+        "text": "Þat gracios gay wythouten galle,"
+      },
+      {
+        "line": 260,
+        "text": "As in þis gardyn gracios gaye,"
+      }
+    ]
+  },
+  "gracious": {
+    "prefix": "gr",
+    "gloss": "gracious (variant spelling)",
+    "semantic_field": "grace/virtue",
+    "token_count": 1,
+    "line_numbers": [
+      934
+    ],
+    "occurrences": [
+      {
+        "line": 934,
+        "text": "To loke on þe glory of þys gracious gote."
+      }
+    ]
+  },
+  "grauayl": {
+    "prefix": "gr",
+    "gloss": "gravel",
+    "semantic_field": "ground/earth",
+    "token_count": 1,
+    "line_numbers": [
+      81
+    ],
+    "occurrences": [
+      {
+        "line": 81,
+        "text": "Þe grauayl þat on grounde con grynde"
+      }
+    ]
+  },
+  "graunt": {
+    "prefix": "gr",
+    "gloss": "grant, concession",
+    "semantic_field": "other",
+    "token_count": 1,
+    "line_numbers": [
+      317
+    ],
+    "occurrences": [
+      {
+        "line": 317,
+        "text": "And ȝet of graunt þou myȝteȝ fayle."
+      }
+    ]
+  },
+  "graye": {
+    "prefix": "gr",
+    "gloss": "grey (of eyes)",
+    "semantic_field": "other",
+    "token_count": 1,
+    "line_numbers": [
+      254
+    ],
+    "occurrences": [
+      {
+        "line": 254,
+        "text": "Vered vp her vyse wyth yȝen graye,"
+      }
+    ]
+  },
+  "grayneȝ": {
+    "prefix": "gr",
+    "gloss": "grains, seeds (pl.)",
+    "semantic_field": "ground/earth",
+    "token_count": 1,
+    "line_numbers": [
+      31
+    ],
+    "occurrences": [
+      {
+        "line": 31,
+        "text": "For vch gresse mot grow of grayneȝ dede;"
+      }
+    ]
+  },
+  "grayþely": {
+    "prefix": "gr",
+    "gloss": "readily, wisely, promptly",
+    "semantic_field": "other",
+    "token_count": 1,
+    "line_numbers": [
+      499
+    ],
+    "occurrences": [
+      {
+        "line": 499,
+        "text": "In sample he can ful grayþely gesse,"
+      }
+    ]
+  },
+  "great": {
+    "prefix": "gr",
+    "gloss": "great (variant of gret)",
+    "semantic_field": "size/degree",
+    "token_count": 1,
+    "line_numbers": [
+      1081
+    ],
+    "occurrences": [
+      {
+        "line": 1081,
+        "text": "An-vnder mone so great merwayle"
+      }
+    ]
+  },
+  "grece": {
+    "prefix": "gr",
+    "gloss": "Greece (proper noun)",
+    "semantic_field": "other",
+    "token_count": 1,
+    "line_numbers": [
+      231
+    ],
+    "occurrences": [
+      {
+        "line": 231,
+        "text": "No gladder gome heþen into Grece"
+      }
+    ]
+  },
+  "greffe": {
+    "prefix": "gr",
+    "gloss": "grief, sorrow",
+    "semantic_field": "grief/anger",
+    "token_count": 1,
+    "line_numbers": [
+      86
+    ],
+    "occurrences": [
+      {
+        "line": 86,
+        "text": "Garten my goste al greffe forȝete."
+      }
+    ]
+  },
+  "greme": {
+    "prefix": "gr",
+    "gloss": "anger, vexation, wrath",
+    "semantic_field": "grief/anger",
+    "token_count": 1,
+    "line_numbers": [
+      465
+    ],
+    "occurrences": [
+      {
+        "line": 465,
+        "text": "Þy heued hatȝ nauþer greme ne gryste,"
+      }
+    ]
+  },
+  "grene": {
+    "prefix": "gr",
+    "gloss": "green",
+    "semantic_field": "ground/earth",
+    "token_count": 3,
+    "line_numbers": [
+      38,
+      1001,
+      1005
+    ],
+    "occurrences": [
+      {
+        "line": 38,
+        "text": "I entred in þat erber grene,"
+      },
+      {
+        "line": 1001,
+        "text": "He glente grene in þe lowest hemme;"
+      },
+      {
+        "line": 1005,
+        "text": "Þe emerade þe furþe so grene of scale;"
+      }
+    ]
+  },
+  "gresse": {
+    "prefix": "gr",
+    "gloss": "grass",
+    "semantic_field": "ground/earth",
+    "token_count": 3,
+    "line_numbers": [
+      10,
+      31,
+      245
+    ],
+    "occurrences": [
+      {
+        "line": 10,
+        "text": "Þurȝ gresse to grounde hit fro me yot."
+      },
+      {
+        "line": 31,
+        "text": "For vch gresse mot grow of grayneȝ dede;"
+      },
+      {
+        "line": 245,
+        "text": "Syþen into gresse þou me aglyȝte."
+      }
+    ]
+  },
+  "gret": {
+    "prefix": "gr",
+    "gloss": "great, large; greatly",
+    "semantic_field": "size/degree",
+    "token_count": 21,
+    "line_numbers": [
+      250,
+      330,
+      511,
+      578,
+      612,
+      616,
+      624,
+      636,
+      648,
+      660,
+      851,
+      926,
+      927,
+      968,
+      986,
+      1104,
+      1105,
+      1116,
+      1128,
+      1152,
+      1174
+    ],
+    "occurrences": [
+      {
+        "line": 250,
+        "text": "And don me in þys del and gret daunger?"
+      },
+      {
+        "line": 330,
+        "text": "My precios perle dotȝ me gret pyne."
+      },
+      {
+        "line": 511,
+        "text": "Wryþen and worchen and don gret pyne,"
+      },
+      {
+        "line": 578,
+        "text": "Of ladyschyp gret and lyueȝ blom,"
+      },
+      {
+        "line": 612,
+        "text": "For þe grace of God is gret inoghe."
+      },
+      {
+        "line": 616,
+        "text": "Am not worþy so gret fere."
+      },
+      {
+        "line": 624,
+        "text": "For þe grace of God is gret innoȝe."
+      },
+      {
+        "line": 636,
+        "text": "For þe grace of God is gret innoghe."
+      },
+      {
+        "line": 648,
+        "text": "Þe grace of God wex gret innoghe."
+      },
+      {
+        "line": 660,
+        "text": "And þe grace of God is gret innogh."
+      },
+      {
+        "line": 851,
+        "text": "In compayny gret our luf con þryf"
+      },
+      {
+        "line": 926,
+        "text": "Of þousandeȝ þryȝt so gret a route,"
+      },
+      {
+        "line": 927,
+        "text": "A gret ceté, for ȝe arn fele,"
+      },
+      {
+        "line": 968,
+        "text": "For a syȝt þerof þurȝ gret fauor."
+      },
+      {
+        "line": 986,
+        "text": "I syȝe þat cyty of gret renoun,"
+      },
+      {
+        "line": 1104,
+        "text": "Þe blysful perle wyth gret delyt."
+      },
+      {
+        "line": 1105,
+        "text": "Wyth gret delyt þay glod in fere"
+      },
+      {
+        "line": 1116,
+        "text": "So droȝ þay forth wyth gret delyt."
+      },
+      {
+        "line": 1128,
+        "text": "Iwysse I laȝt a gret delyt."
+      },
+      {
+        "line": 1152,
+        "text": "For luf-longyng in gret delyt."
+      },
+      {
+        "line": 1174,
+        "text": "I raxled, and fel in gret affray,"
+      }
+    ]
+  },
+  "grete": {
+    "prefix": "gr",
+    "gloss": "great (variant); large (of creatures)",
+    "semantic_field": "size/degree",
+    "token_count": 6,
+    "line_numbers": [
+      90,
+      237,
+      280,
+      331,
+      470,
+      637
+    ],
+    "occurrences": [
+      {
+        "line": 90,
+        "text": "Of flaumbande hweȝ, boþe smale and grete;"
+      },
+      {
+        "line": 237,
+        "text": "Caȝte of her coroun of grete tresore"
+      },
+      {
+        "line": 280,
+        "text": "My grete dystresse þou al todraweȝ."
+      },
+      {
+        "line": 331,
+        "text": "What serueȝ tresor, bot gareȝ men grete"
+      },
+      {
+        "line": 470,
+        "text": "And charyté grete, be yow among,"
+      },
+      {
+        "line": 637,
+        "text": "'Inoȝe is knawen þat mankyn grete"
+      }
+    ]
+  },
+  "greue": {
+    "prefix": "gr",
+    "gloss": "grove, garden (esp. of Paradise)",
+    "semantic_field": "ground/earth",
+    "token_count": 2,
+    "line_numbers": [
+      321,
+      471
+    ],
+    "occurrences": [
+      {
+        "line": 321,
+        "text": "For hit watȝ forgarte at Paradys greue;"
+      },
+      {
+        "line": 471,
+        "text": "Bot my speche þat yow ne greue,"
+      }
+    ]
+  },
+  "grewe": {
+    "prefix": "gr",
+    "gloss": "grew (past of growen); arose from",
+    "semantic_field": "ground/earth",
+    "token_count": 1,
+    "line_numbers": [
+      425
+    ],
+    "occurrences": [
+      {
+        "line": 425,
+        "text": "We leuen on Marye þat grace of grewe,"
+      }
+    ]
+  },
+  "gromylyoun": {
+    "prefix": "gr",
+    "gloss": "gromwell (a plant, Lithospermum officinale)",
+    "semantic_field": "ground/earth",
+    "token_count": 1,
+    "line_numbers": [
+      43
+    ],
+    "occurrences": [
+      {
+        "line": 43,
+        "text": "Gilofre, gyngure and gromylyoun,"
+      }
+    ]
+  },
+  "grouelyng": {
+    "prefix": "gr",
+    "gloss": "grovelling, prostrate on the ground",
+    "semantic_field": "ground/earth",
+    "token_count": 1,
+    "line_numbers": [
+      1120
+    ],
+    "occurrences": [
+      {
+        "line": 1120,
+        "text": "Grouelyng to his fete þay felle."
+      }
+    ]
+  },
+  "grounde": {
+    "prefix": "gr",
+    "gloss": "ground, earth; foundation, source",
+    "semantic_field": "ground/earth",
+    "token_count": 10,
+    "line_numbers": [
+      10,
+      81,
+      372,
+      384,
+      396,
+      408,
+      420,
+      434,
+      654,
+      1173
+    ],
+    "occurrences": [
+      {
+        "line": 10,
+        "text": "Þurȝ gresse to grounde hit fro me yot."
+      },
+      {
+        "line": 81,
+        "text": "Þe grauayl þat on grounde con grynde"
+      },
+      {
+        "line": 372,
+        "text": "Þat er watȝ grounde of alle my blysse."
+      },
+      {
+        "line": 384,
+        "text": "Þise arn þe grounde of alle my blisse."
+      },
+      {
+        "line": 396,
+        "text": "Hit is in grounde of alle my blysse.'"
+      },
+      {
+        "line": 408,
+        "text": "Þat is þe grounde of alle my blysse."
+      },
+      {
+        "line": 420,
+        "text": "Is rote and grounde of alle my blysse.'"
+      },
+      {
+        "line": 434,
+        "text": "Knelande to grounde, folde vp hyr face,"
+      },
+      {
+        "line": 654,
+        "text": "Þat folȝed þe glayue so grymly grounde,"
+      },
+      {
+        "line": 1173,
+        "text": "Þer as my perle to grounde strayd."
+      }
+    ]
+  },
+  "grow": {
+    "prefix": "gr",
+    "gloss": "to grow",
+    "semantic_field": "ground/earth",
+    "token_count": 1,
+    "line_numbers": [
+      31
+    ],
+    "occurrences": [
+      {
+        "line": 31,
+        "text": "For vch gresse mot grow of grayneȝ dede;"
+      }
+    ]
+  },
+  "grym": {
+    "prefix": "gr",
+    "gloss": "grim, terrible, repulsive",
+    "semantic_field": "grief/anger",
+    "token_count": 1,
+    "line_numbers": [
+      1070
+    ],
+    "occurrences": [
+      {
+        "line": 1070,
+        "text": "To spotty ho is, of body to grym,"
+      }
+    ]
+  },
+  "grymly": {
+    "prefix": "gr",
+    "gloss": "grimly, terribly",
+    "semantic_field": "grief/anger",
+    "token_count": 1,
+    "line_numbers": [
+      654
+    ],
+    "occurrences": [
+      {
+        "line": 654,
+        "text": "Þat folȝed þe glayue so grymly grounde,"
+      }
+    ]
+  },
+  "grynde": {
+    "prefix": "gr",
+    "gloss": "to grind, crush underfoot",
+    "semantic_field": "ground/earth",
+    "token_count": 1,
+    "line_numbers": [
+      81
+    ],
+    "occurrences": [
+      {
+        "line": 81,
+        "text": "Þe grauayl þat on grounde con grynde"
+      }
+    ]
+  },
+  "gryste": {
+    "prefix": "gr",
+    "gloss": "gnashing of teeth; rage, fury",
+    "semantic_field": "grief/anger",
+    "token_count": 1,
+    "line_numbers": [
+      465
+    ],
+    "occurrences": [
+      {
+        "line": 465,
+        "text": "Þy heued hatȝ nauþer greme ne gryste,"
+      }
+    ]
+  }
+}

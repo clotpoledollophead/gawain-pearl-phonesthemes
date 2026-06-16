@@ -1,0 +1,358 @@
+{
+  "grene": {
+    "semantic_field": "color/nature",
+    "gloss": "green"
+  },
+  "grener": {
+    "semantic_field": "color/nature",
+    "gloss": "greener (comparative)"
+  },
+  "grenne": {
+    "semantic_field": "color/nature",
+    "gloss": "green (variant spelling)"
+  },
+  "gray": {
+    "semantic_field": "color/nature",
+    "gloss": "gray"
+  },
+  "graye": {
+    "semantic_field": "color/nature",
+    "gloss": "gray (variant)"
+  },
+  "grayes": {
+    "semantic_field": "color/nature",
+    "gloss": "grays"
+  },
+  "glent": {
+    "semantic_field": "light/vision",
+    "gloss": "gleam, glint; glance of the eye"
+  },
+  "glyȝt": {
+    "semantic_field": "light/vision",
+    "gloss": "glanced, looked (past tense of 'glyȝen')"
+  },
+  "glowande": {
+    "semantic_field": "light/vision",
+    "gloss": "glowing"
+  },
+  "glemered": {
+    "semantic_field": "light/vision",
+    "gloss": "gleamed, glimmered"
+  },
+  "glemed": {
+    "semantic_field": "light/vision",
+    "gloss": "gleamed"
+  },
+  "glem": {
+    "semantic_field": "light/vision",
+    "gloss": "gleam, beam of light"
+  },
+  "glytered": {
+    "semantic_field": "light/vision",
+    "gloss": "glittered"
+  },
+  "glyterande": {
+    "semantic_field": "light/vision",
+    "gloss": "glittering"
+  },
+  "gledez": {
+    "semantic_field": "light/vision",
+    "gloss": "glowing embers"
+  },
+  "glede": {
+    "semantic_field": "light/vision",
+    "gloss": "glowing ember"
+  },
+  "glorious": {
+    "semantic_field": "light/vision",
+    "gloss": "glorious, radiant"
+  },
+  "glydez": {
+    "semantic_field": "motion",
+    "gloss": "glides"
+  },
+  "glydande": {
+    "semantic_field": "motion",
+    "gloss": "gliding"
+  },
+  "glode": {
+    "semantic_field": "motion",
+    "gloss": "glided (past tense)"
+  },
+  "glodes": {
+    "semantic_field": "motion",
+    "gloss": "glides (3rd person)"
+  },
+  "glod": {
+    "semantic_field": "motion",
+    "gloss": "glided (variant past tense)"
+  },
+  "glyfte": {
+    "semantic_field": "motion",
+    "gloss": "glanced aside, flinched"
+  },
+  "glaum": {
+    "semantic_field": "sound/joy",
+    "gloss": "clamour, revelry"
+  },
+  "glam": {
+    "semantic_field": "sound/joy",
+    "gloss": "noise, uproar, clamour"
+  },
+  "glauer": {
+    "semantic_field": "sound/joy",
+    "gloss": "prattle, chatter, noise"
+  },
+  "glad": {
+    "semantic_field": "sound/joy",
+    "gloss": "glad, joyful"
+  },
+  "gladly": {
+    "semantic_field": "sound/joy",
+    "gloss": "gladly"
+  },
+  "gladloker": {
+    "semantic_field": "sound/joy",
+    "gloss": "more gladly (comparative)"
+  },
+  "glade": {
+    "semantic_field": "sound/joy",
+    "gloss": "glad; to make glad"
+  },
+  "gle": {
+    "semantic_field": "sound/joy",
+    "gloss": "glee, joy, entertainment"
+  },
+  "gronyed": {
+    "semantic_field": "sound/joy",
+    "gloss": "grunted, groaned (animal sound)"
+  },
+  "grace": {
+    "semantic_field": "grace/virtue",
+    "gloss": "grace, divine favour, mercy"
+  },
+  "gracios": {
+    "semantic_field": "grace/virtue",
+    "gloss": "gracious"
+  },
+  "graciously": {
+    "semantic_field": "grace/virtue",
+    "gloss": "graciously"
+  },
+  "grant": {
+    "semantic_field": "speech/consent",
+    "gloss": "grant, agree"
+  },
+  "grante": {
+    "semantic_field": "speech/consent",
+    "gloss": "grant (variant)"
+  },
+  "granted": {
+    "semantic_field": "speech/consent",
+    "gloss": "granted"
+  },
+  "graunt": {
+    "semantic_field": "speech/consent",
+    "gloss": "grant, agree"
+  },
+  "graunte": {
+    "semantic_field": "speech/consent",
+    "gloss": "grant (variant)"
+  },
+  "graunted": {
+    "semantic_field": "speech/consent",
+    "gloss": "granted"
+  },
+  "grauntez": {
+    "semantic_field": "speech/consent",
+    "gloss": "grants (3rd person)"
+  },
+  "grantez": {
+    "semantic_field": "speech/consent",
+    "gloss": "grants (variant)"
+  },
+  "grayþed": {
+    "semantic_field": "material/craft",
+    "gloss": "arrayed, dressed, prepared (past participle)"
+  },
+  "grayþely": {
+    "semantic_field": "material/craft",
+    "gloss": "readily, promptly, duly"
+  },
+  "grayþe": {
+    "semantic_field": "material/craft",
+    "gloss": "ready; to make ready, prepare"
+  },
+  "grayþez": {
+    "semantic_field": "material/craft",
+    "gloss": "prepares, makes ready (3rd person)"
+  },
+  "grayth": {
+    "semantic_field": "material/craft",
+    "gloss": "ready; to equip (variant spelling)"
+  },
+  "grayn": {
+    "semantic_field": "material/craft",
+    "gloss": "blade, edge of an axe"
+  },
+  "grounden": {
+    "semantic_field": "material/craft",
+    "gloss": "ground, sharpened (past participle of 'grind')"
+  },
+  "gryndelston": {
+    "semantic_field": "material/craft",
+    "gloss": "grindstone, whetstone"
+  },
+  "gloue": {
+    "semantic_field": "material/craft",
+    "gloss": "glove"
+  },
+  "glouez": {
+    "semantic_field": "material/craft",
+    "gloss": "gloves"
+  },
+  "greme": {
+    "semantic_field": "grief/fear",
+    "gloss": "anger, fury, grief"
+  },
+  "grem": {
+    "semantic_field": "grief/fear",
+    "gloss": "anger, fury (variant)"
+  },
+  "grame": {
+    "semantic_field": "grief/fear",
+    "gloss": "sorrow, grief, anger"
+  },
+  "gref": {
+    "semantic_field": "grief/fear",
+    "gloss": "grief, distress"
+  },
+  "greued": {
+    "semantic_field": "grief/fear",
+    "gloss": "grieved, vexed"
+  },
+  "greuez": {
+    "semantic_field": "grief/fear",
+    "gloss": "grieves"
+  },
+  "greue": {
+    "semantic_field": "grief/fear",
+    "gloss": "grieve, trouble"
+  },
+  "glopnyng": {
+    "semantic_field": "grief/fear",
+    "gloss": "terror, dismay, consternation"
+  },
+  "gryed": {
+    "semantic_field": "grief/fear",
+    "gloss": "shuddered, was horrified"
+  },
+  "gruchyng": {
+    "semantic_field": "grief/fear",
+    "gloss": "grudging, complaining"
+  },
+  "gruch": {
+    "semantic_field": "grief/fear",
+    "gloss": "grudge, complain"
+  },
+  "groned": {
+    "semantic_field": "grief/fear",
+    "gloss": "groaned"
+  },
+  "grone": {
+    "semantic_field": "grief/fear",
+    "gloss": "groan"
+  },
+  "grounde": {
+    "semantic_field": "ground/nature",
+    "gloss": "ground, earth"
+  },
+  "groundez": {
+    "semantic_field": "ground/nature",
+    "gloss": "grounds, foundations"
+  },
+  "gresse": {
+    "semantic_field": "ground/nature",
+    "gloss": "grass"
+  },
+  "gres": {
+    "semantic_field": "ground/nature",
+    "gloss": "grass (variant)"
+  },
+  "grece": {
+    "semantic_field": "ground/nature",
+    "gloss": "grease; steps (OFr. gres)"
+  },
+  "growe": {
+    "semantic_field": "ground/nature",
+    "gloss": "grove, thicket"
+  },
+  "grwe": {
+    "semantic_field": "ground/nature",
+    "gloss": "grew (past tense)"
+  },
+  "grehoundez": {
+    "semantic_field": "ground/nature",
+    "gloss": "greyhounds"
+  },
+  "gret": {
+    "semantic_field": "size/degree",
+    "gloss": "great, large"
+  },
+  "grete": {
+    "semantic_field": "size/degree",
+    "gloss": "great, large (variant)"
+  },
+  "grett": {
+    "semantic_field": "size/degree",
+    "gloss": "great (variant spelling)"
+  },
+  "grattest": {
+    "semantic_field": "size/degree",
+    "gloss": "greatest (superlative)"
+  },
+  "grymme": {
+    "semantic_field": "violence/force",
+    "gloss": "fierce, terrible, grim"
+  },
+  "gryndel": {
+    "semantic_field": "violence/force",
+    "gloss": "fierce, angry"
+  },
+  "gryndellayk": {
+    "semantic_field": "violence/force",
+    "gloss": "violence, fierceness"
+  },
+  "gryndelly": {
+    "semantic_field": "violence/force",
+    "gloss": "fiercely, terribly"
+  },
+  "gripped": {
+    "semantic_field": "violence/force",
+    "gloss": "gripped, seized"
+  },
+  "gryped": {
+    "semantic_field": "violence/force",
+    "gloss": "gripped (variant)"
+  },
+  "grypez": {
+    "semantic_field": "violence/force",
+    "gloss": "grips, seizes"
+  },
+  "grypte": {
+    "semantic_field": "violence/force",
+    "gloss": "gripped (past tense)"
+  },
+  "gryngolet": {
+    "semantic_field": "proper_noun",
+    "gloss": "Gryngolet (Gawain's horse)"
+  },
+  "grome": {
+    "semantic_field": "social/rank",
+    "gloss": "man, fellow, groom"
+  },
+  "gromez": {
+    "semantic_field": "social/rank",
+    "gloss": "men, grooms (plural)"
+  }
+}
